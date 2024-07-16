@@ -1,6 +1,14 @@
 # Hi, i'm Thomas :computer:
 
-![Td-banner](https://user-images.githubusercontent.com/95459530/227396712-3888fd3d-ef43-42f0-b294-b8df2411a555.png)
+- 📚 Technique de l'informatique 
+- 🔬 Projets Web et Applications 
+- 📱 HTML, CSS, JavaScript, Java, C#, PHP, SQL, SwiftUI, C 
+- 💻 ReactJS, Laravel, Android Studio, Xcode, Docker, Unity
+- 🎨 Figma, Photoshop, Premiere Pro, Davinci Resolve, Illustrator, Cinema 4D
 
-## Who am i?
-I am a computer science student living in Canada.
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ThomD7&rank_icon=github&locale=fr" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=100 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ThomD7&layout=compact&langs_count=8&card_width=320&locale=fr" />
+</a>
